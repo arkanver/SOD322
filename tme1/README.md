@@ -11,3 +11,5 @@ Les dossiers sont organisés ainsi :
   - Triangles : compte les triangles d'un graphe donné en entrée.
 
 Pour un certain code.c, compiler simplement par gcc code.c -o code par exemple (éventuellement -O3).
+
+Il y a déjà des exécutables inclus au cas où.
